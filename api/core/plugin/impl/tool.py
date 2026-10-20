@@ -1,3 +1,4 @@
+# Gateway Phase 5 demonstration - no functional changes
 from collections.abc import Generator
 from typing import Any
 
